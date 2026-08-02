@@ -1,0 +1,75 @@
+# Python
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+
+# Virtual Environment
+
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Environment Variables
+
+.env
+.env.*
+
+# VS Code
+
+
+.vscode/
+
+# Streamlit Cache
+
+.streamlit/secrets.toml
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Build Files
+
+build/
+dist/
+*.egg-info/
+
+# Testing
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+
+.idea/
+
+# Temporary Files
+
+*.tmp
+*.bak
+
+# Model Files (Optional)
+# Uncomment if you store large models
+
+# models/*.pkl
+# models/*.joblib
+
+# Generated Reports (Optional)
+# Keep project reports but ignore generated PDFs
+
+
+reports/test_safety_report.pdf
