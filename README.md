@@ -158,7 +158,7 @@ python tests/test_crime_intelligence.py
 
 ## 🚀 Live Demo
 
-[👉 Open Live Project] https://ai-healthcare-insurance-fraud-detection-system-8bn6eqwxq7bfd3m.streamlit.app/
+👉 Open Live Project: https://ai-crime-intelligence.streamlit.app/
 
 ## 👨‍💻 Author
 
